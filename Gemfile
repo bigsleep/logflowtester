@@ -1,0 +1,10 @@
+source 'https://rubygems.org/'
+
+gem 'fluentd', '~> 1.1'
+gem 'fluent-plugin-bigquery', '~> 1.2'
+gem 'fluent-plugin-cloudwatch-logs', '~> 0.4.4'
+gem 'fluent-plugin-forest', '~> 0.3.3'
+gem 'fluent-plugin-kinesis', '~> 2.1'
+gem 'fluent-plugin-s3', '~> 1.1', '>= 1.1.1'
+gem 'fluent-plugin-td', '~> 1.0'
+gem 'json', '~> 2.1'
